@@ -110,7 +110,7 @@ cy.get('input').should('be.enabled');
 cy.get('input').should('be.disabled');
 ```
 
-For more information visit the documentation on assertions [here](https://docs.cypress.io/guides/references/assertions)
+For more information visit the documentation on assertions [here](https://docs.cypress.io/guides/references/assertions).
 
 </details>
 
@@ -160,7 +160,7 @@ it('should log in with valid credentials from fixture', function() {
 })
 ```
 
-For more information visit the documentation on fixtures [here](https://docs.cypress.io/api/commands/fixture)
+For more information visit the documentation on fixtures [here](https://docs.cypress.io/api/commands/fixture).
 </details>
 
 <details>
@@ -246,7 +246,7 @@ Cypress.Commands.add('clickButton', (buttonText) => {
 
 4. **Add Type Definitions**: Since we're using TypeScript include the type definition for easier debugging, please!
 
-For more information on Custom Commands visit the documentation [here](https://docs.cypress.io/api/cypress-api/custom-commands)
+For more information on Custom Commands visit the documentation [here](https://docs.cypress.io/api/cypress-api/custom-commands).
 </details>
 
 ## Best Practices
@@ -263,7 +263,7 @@ They cover FAQ [here](https://docs.cypress.io/faq/questions/using-cypress-faq).
 
 ## Additional Resources
 
-Test Automation University has a small course with videos on Cypress [here](https://testautomationu.applitools.com/cypress-getting-started/chapter8.html). A more advanced course of theirs can be found [here](https://testautomationu.applitools.com/cypress-advanced/)
+Test Automation University has a small course with videos on Cypress [here](https://testautomationu.applitools.com/cypress-getting-started/chapter8.html). A more advanced course of theirs can be found [here](https://testautomationu.applitools.com/cypress-advanced/).
 
 Cypress blog and community can be found [here](https://www.cypress.io/blog/category/Community).
 
