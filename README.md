@@ -263,7 +263,7 @@ They cover FAQ [here](https://docs.cypress.io/faq/questions/using-cypress-faq).
 
 ## Additional Resources
 
-Test Automation University has a small course with videos on Cypress [here](https://testautomationu.applitools.com/cypress-getting-started/chapter8.html).
+Test Automation University has a small course with videos on Cypress [here](https://testautomationu.applitools.com/cypress-getting-started/chapter8.html). A more advanced course of theirs can be found [here](https://testautomationu.applitools.com/cypress-advanced/)
 
 Cypress blog and community can be found [here](https://www.cypress.io/blog/category/Community).
 
