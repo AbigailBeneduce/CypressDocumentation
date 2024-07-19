@@ -110,7 +110,7 @@ cy.get('input').should('be.enabled');
 cy.get('input').should('be.disabled');
 ```
 
-For more information visit the [documentation](#documentation)
+For more information visit the documentation on assertions [here](https://docs.cypress.io/guides/references/assertions)
 
 </details>
 
@@ -159,6 +159,8 @@ it('should log in with valid credentials from fixture', function() {
     //Test code below this
 })
 ```
+
+For more information visit the documentation on fixtures [here](https://docs.cypress.io/api/commands/fixture)
 </details>
 
 <details>
@@ -244,6 +246,7 @@ Cypress.Commands.add('clickButton', (buttonText) => {
 
 4. **Add Type Definitions**: Since we're using TypeScript include the type definition for easier debugging, please!
 
+For more information on Custom Commands visit the documentation [here](https://docs.cypress.io/api/cypress-api/custom-commands)
 </details>
 
 ## Best Practices
